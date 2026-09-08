@@ -120,4 +120,4 @@ This repository represents my learning journey and hands-on practice with Node.j
 
 ---
 
-⭐ If you find this repository useful, feel free to explore the code and follow along with the learning journey.
+ If you find this repository useful, feel free to explore the code and follow along with the learning journey.
