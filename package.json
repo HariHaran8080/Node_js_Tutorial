@@ -1,0 +1,29 @@
+{
+  "name": "node.js-tutorial",
+  "version": "1.0.0",
+  "description": "This repository documents my **Node.js learning journey**, covering fundamental concepts, server-side programming, backend development, and hands-on practice.",
+  "homepage": "https://github.com/HariHaran8080/Node_js_Tutorial#readme",
+  "bugs": {
+    "url": "https://github.com/HariHaran8080/Node_js_Tutorial/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HariHaran8080/Node_js_Tutorial.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "date-fns": "^4.4.0",
+    "uuid": "^14.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
