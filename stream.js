@@ -9,3 +9,4 @@ const ws=fs.createWriteStream(path.join(__dirname,'files','new_bigfile.txt'))
 // })
 
 rs.pipe(ws)
+
