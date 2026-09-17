@@ -16,11 +16,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index"
+    "start": "node index",
+    "dev": "nodemon web_server"
   },
   "dependencies": {
+    "cors": "^2.8.6",
     "date-fns": "^4.4.0",
+    "express": "^5.2.1",
     "uuid": "^14.0.2"
   },
   "devDependencies": {
